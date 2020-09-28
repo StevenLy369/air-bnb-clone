@@ -1,0 +1,108 @@
+
+/* 
+#header {
+  text-align: center
+} */
+
+
+
+#headers{
+  display: flex;
+  
+  justify-content: space-between;
+  padding: 40px;
+}
+
+#nav{
+  display: flex;
+  
+}
+
+
+#search{
+  display: flex;
+ 
+}
+
+.nav-buttons{
+  padding: 30px;
+  outline: darkgray;
+  outline-width: 5px;
+  outline-style: auto;
+}
+
+
+.search-buttons{
+  padding: 30px;
+  outline: lightseagreen;
+  outline-width: 5px;
+  outline-style: auto;
+  justify-content: space-between;
+  
+  
+
+}
+
+.search-bar{
+  border-radius: 15px;
+  background-color: whitesmoke;
+  border-color: lightskyblue;
+  border-radius: 25px;
+  border-style: solid;
+  padding: 10px;
+  padding-right: 250px;
+  padding-top: 15px;
+}
+
+.tweet-button{
+  border-radius: 15px;
+  background-color: whitesmoke;
+  border-color: lightskyblue;
+  border-radius: 25px;
+  border-style: solid;
+  padding: 15px;
+  margin: 15px;
+  padding-top: 15px;
+  padding-right: 45px;
+  padding-left: 45px;
+}
+
+
+.profile-button{
+display: flex;
+justify-content: space-between;
+width: 30%;
+
+
+}
+
+
+.profile{
+border-color: grey;
+border-style: solid;
+width: 30%;
+padding: 15px;
+margin: 30px;
+}
+
+
+.bio{
+  display: flex;
+  width: 30%;
+border-style: solid;
+margin: 30px;
+padding: 15px;
+
+}
+
+.profile-profile{
+  padding: 10px;
+}
+
+
+.tweet-bar{
+  background-color: lightblue;
+  width: 30%;
+  align-self: center;
+
+}
